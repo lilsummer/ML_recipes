@@ -1,5 +1,5 @@
 
-## ML stats receipes
+## ML & Statistics receipes 🥘
 
 ### Diagnostics🩺 and treatment 💉
 
