@@ -7,6 +7,8 @@
 
 [Too many features](https://www.kaggle.com/lilsummer877/too-many-features)
 
+[Bias Variances Decomposition](https://www.kaggle.com/lilsummer877/bias-variance-decomposition-using-random-forest)
+
 ### Build from scratch 🛠
 
 [build from scratch: PCA, Kmeans, KNN, naive bayes classifier, gradient descent](https://www.kaggle.com/lilsummer877/build-from-scratch)
