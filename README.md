@@ -9,7 +9,7 @@
 
 [Bias Variances Decomposition](https://www.kaggle.com/lilsummer877/bias-variance-decomposition-using-random-forest)
 
-[Logistic Regression[(https://www.kaggle.com/lilsummer877/logistic-regression-diag)
+[Logistic Regression](https://www.kaggle.com/lilsummer877/logistic-regression-diag)
 
 ### Build from scratch 🛠
 
