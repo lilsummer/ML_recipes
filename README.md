@@ -16,3 +16,5 @@
 [build from scratch: PCA, Kmeans, KNN, naive bayes classifier, gradient descent](https://www.kaggle.com/lilsummer877/build-from-scratch)
 
 [build from scratch: gaussian mixture model and EM algorithm](https://www.kaggle.com/lilsummer877/em-algorithm-to-estimate-the-parameters-of-feature)
+
+[build from scratch: correlation, hypothesis test, chi-square test](https://www.kaggle.com/lilsummer877/stats-from-scratch)
